@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyWallpapers</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ImageString"><![CDATA[https://images.pexels.com/photos/799443/pexels-photo-799443.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500]]></string>
+    <string name="FirstImage">https://static.statusqueen.in/mobilewallpaper/thumbnail/mobile_wallpaper__1-471.jpg</string>
+</resources>
